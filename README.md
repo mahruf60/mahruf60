@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on **C#, ASP .Net MVC, ASP .Net Core MVC, AI Enthusiast**
+- 🌱 I’m currently working on **C#, Python, ASP .Net, ASP .Net Core, AI Enthusiast**
 
 - 💬 Ask me about **Software Development, Backend Development**
 
