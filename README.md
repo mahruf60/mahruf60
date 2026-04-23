@@ -37,4 +37,6 @@
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahruf60&" alt="mahruf60" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahruf60" alt="mahruf60" />
+</p>
