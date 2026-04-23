@@ -38,5 +38,5 @@
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahruf60&background=0d1117&ring=00ffcc&fire=ff6600&currStreakNum=00ffcc&sideNums=00ffcc&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af" />
+  <img src="https://streak-stats.demolab.com?user=mahruf60&background=0d1117&ring=00ffcc&fire=ff6600&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=9ca3af" />
 </p>
