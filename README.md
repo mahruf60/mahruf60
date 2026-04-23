@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Software Development, Backend Development**
 
-- 📫 Open for collaboration: **mahruf9060@gmail.com**
+- 📬 Open for collaboration: **mahruf9060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <table>
