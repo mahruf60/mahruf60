@@ -38,5 +38,5 @@
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahruf60&theme=tokyonight&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=mahruf60&theme=tokyonight&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af" />
 </p>
