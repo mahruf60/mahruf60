@@ -2,13 +2,11 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently working on **C#, Python, ASP .Net, ASP .Net Core, AI Enthusiast**
+- 🌱 Currently working with: **C#, Python, ASP .Net, ASP .Net Core, AI Enthusiast**
 
 - 💬 Ask me about **Software Development, Backend Development**
 
-- 📫 How to reach me **mahruf9060@gmail.com**
-
-- ⚡ Fun fact **Funny**
+- 📫 Open for collaboration: **mahruf9060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <table>
